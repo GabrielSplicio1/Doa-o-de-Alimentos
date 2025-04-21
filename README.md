@@ -19,3 +19,6 @@ Componentes nativos do Android (LinearLayout, ListView, AlertDialog, etc.)
 
 🎯 Objetivo
 Criar uma solução leve e prática que possa ser utilizada facilmente por voluntários e colaboradores, focando em funcionalidades essenciais e com uma curva de aprendizado mínima.
+
+link do Videos 
+https://youtu.be/nUINtgCS5Vo
